@@ -58,6 +58,7 @@ class MainActivity : AppCompatActivity() {
         adapter?.setOnClickDelete {
             selectedHari = it.hari
             databaseReference?.child(selectedHari.orEmpty())?.removeValue()
+            Toast.makeText(this, "Delete success", Toast.LENGTH_SHORT).show()
         }
     }
 
