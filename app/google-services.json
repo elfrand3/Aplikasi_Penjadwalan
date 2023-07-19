@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321219303677",
+    "firebase_url": "https://epic-b9cb5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "epic-b9cb5",
+    "storage_bucket": "epic-b9cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321219303677:android:95f769d2a3bfb470bf8694",
+        "android_client_info": {
+          "package_name": "com.elcodee.epic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321219303677-3mo9u80p521d231b89lru3mmpa4g39im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_HNMQgkeV-j5fhOlDKcnM6SGp4KOLOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321219303677-3mo9u80p521d231b89lru3mmpa4g39im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
